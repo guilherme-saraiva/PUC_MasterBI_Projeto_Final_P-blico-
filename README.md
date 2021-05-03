@@ -1,6 +1,6 @@
 # PUC_MasterBI_Projeto_Final_Publico
 
-# Título do Trabalho: Business Intelligence Aplicada à Gestão de Vendas B2B
+# Título: Business Intelligence Aplicada à Gestão de Vendas B2B
 
 #### Aluno: [Guilherme Saraiva](https://github.com/guilherme-saraiva)
 #### Matrícula: 191.671.058 - Turma: 2019-1
